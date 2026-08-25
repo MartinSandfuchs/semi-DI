@@ -1,0 +1,3 @@
+[submodule "semi-NPA"]
+	path = NPA-MP
+	url = git@github.com:MartinSandfuchs/NPA-MP.git
